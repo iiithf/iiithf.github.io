@@ -5,22 +5,22 @@ The "really" small subset of courses i took at IIIT Hyderabad.
 
 #### Research
 
-- [Parallel PageRank algorithm](https://puzzlef.github.io)
-- [Infectious Disease Modelling](https://github.com/iiithf/infectious-disease-modeling)
+- 🕸️ [Parallel PageRank algorithm](https://puzzlef.github.io)
+- 🦠 [Infectious Disease Modelling](https://github.com/iiithf/infectious-disease-modeling)
 
 
 #### Courses
 
-- [Queuing Theory (part of ACN)](https://github.com/iiithf/queuing-theory)
-- [Advanced Computer Architecture (ACN)](https://github.com/iiithf/advanced-computer-networks)
-- [Concurrent Data Structures (CDS)](https://github.com/iiithf/concurrent-data-structures)
-- [Software Foundations (SF)](https://github.com/iiithf/software-foundations)
-- [Advanced Computer Architecture (ACA)](https://github.com/iiithf/advanced-computer-architecture)
-- [Optimization Methods (OM)](https://github.com/iiithf/optimization-methods)
-- [Compilers](https://github.com/iiithf/compilers)
-- [Principles of Programmng Languages (PoPL)](https://github.com/iiithf/principles-of-programming-languages)
-- [Discrete Mathematics and Algorithms (DMA)](https://github.com/iiithf/discrete-mathematics-and-algorithms)
-- [Distributed Systems (DS)](https://github.com/iiithf/distributed-systems)
+- 🚂 [Queuing Theory (part of ACN)](https://github.com/iiithf/queuing-theory)
+- 🌐 [Advanced Computer Networks (ACN)](https://github.com/iiithf/advanced-computer-networks)
+- 👥 [Concurrent Data Structures (CDS)](https://github.com/iiithf/concurrent-data-structures)
+- ⛱️ [Software Foundations (SF)](https://github.com/iiithf/software-foundations)
+- 💻 [Advanced Computer Architecture (ACA)](https://github.com/iiithf/advanced-computer-architecture)
+- 📊 [Optimization Methods (OM)](https://github.com/iiithf/optimization-methods)
+- ⚙️ [Compilers](https://github.com/iiithf/compilers)
+- 📖 [Principles of Programmng Languages (PoPL)](https://github.com/iiithf/principles-of-programming-languages)
+- 🖊️ [Discrete Mathematics and Algorithms (DMA)](https://github.com/iiithf/discrete-mathematics-and-algorithms)
+- 📻 [Distributed Systems (DS)](https://github.com/iiithf/distributed-systems)
 
 
 #### Events
