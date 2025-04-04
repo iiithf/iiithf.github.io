@@ -81,3 +81,4 @@ The courses **[Discrete Mathematics and Algorithms (DMA)](https://github.com/iii
 
 [![](https://img.youtube.com/vi/379s_WzePts/maxresdefault.jpg)](https://www.youtube.com/watch?v=379s_WzePts)
 [![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/iiithf.github.io)
